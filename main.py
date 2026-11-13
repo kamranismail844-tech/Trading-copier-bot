@@ -7,7 +7,7 @@ API_ID = int(os.getenv("API_ID", "33698486"))
 API_HASH = os.getenv("API_HASH", "61e4a7c1b861b141eede9901dbf6935b")
 SESSION_STRING = os.getenv("SESSION_STRING")
 
-SOURCE_CHANNEL = os.getenv("SOURCE_CHANNEL", "@tradddingsigggnals")
+SOURCE_CHANNEL = os.getenv("SOURCE_CHANNEL", "@FxSpaceGlobal")
 TARGET_CHANNEL = os.getenv("TARGET_CHANNEL", "@TradeXManagement")
 CUSTOM_FOOTER = os.getenv("CUSTOM_FOOTER", "Contact: @Mr_tradern")
 
